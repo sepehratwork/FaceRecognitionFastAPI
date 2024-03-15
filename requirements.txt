@@ -1,0 +1,9 @@
+fastapi
+jinja2
+uvicorn[standard]
+uvicorn
+deepface
+tensorflow
+ultralytics
+python-multipart
+aiofiles
